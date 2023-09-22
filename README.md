@@ -1,5 +1,6 @@
 # Chatea con tus archivos
 
+
 ## Índice
 
 - [1. Consideraciones generales](#1-consideraciones-generales)
